@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CompassKeyboard name="Messagey English">
   <Layout name="vertical">
     <Row name="top">
@@ -20,14 +20,6 @@
           <Action code="V"/>
         </State>
         <State name="number">
-          <Action/>
-          <Action code="1"/>
-          <Action code="-"/>
-          <Action code="$"/>
-          <Action/>
-          <Action/>
-        </State>
-        <State name="shift,number">
           <Action/>
           <Action code="1"/>
           <Action code="-"/>
@@ -60,17 +52,6 @@
           <Action code="\"/>
         </State>
         <State name="number">
-          <Action code="`"/>
-          <Action code="^"/>
-          <Action code="´"/>
-          <Action code="%2b"/>
-          <Action code="2"/>
-          <Action code="!"/>
-          <Action code="/"/>
-          <Action/>
-          <Action code="\"/>
-        </State>
-        <State name="shift,number">
           <Action code="`"/>
           <Action code="^"/>
           <Action code="´"/>
@@ -116,17 +97,6 @@
           <Action code="="/>
           <Action code="€"/>
         </State>
-        <State name="shift,number">
-          <Action/>
-          <Action key="19" text="↑"/>
-          <Action/>
-          <Action code="?"/>
-          <Action code="3"/>
-          <Action/>
-          <Action/>
-          <Action code="="/>
-          <Action code="€"/>
-        </State>
       </Key>
       <Key name="hide" has_left="0" has_top="0" has_right="0" has_bottom="0">
         <State>
@@ -159,17 +129,6 @@
           <Action code="_"/>
         </State>
         <State name="number">
-          <Action code="{"/>
-          <Action/>
-          <Action code="%25"/>
-          <Action code="("/>
-          <Action code="4"/>
-          <Action/>
-          <Action code="["/>
-          <Action/>
-          <Action code="_"/>
-        </State>
-        <State name="shift,number">
           <Action code="{"/>
           <Action/>
           <Action code="%25"/>
@@ -230,7 +189,7 @@
         </State>
         <State name="shift">
           <Action code="|"/>
-          <Action mod="shift" text="⇧"/>
+          <Action/>
           <Action code="}"/>
           <Action code="M"/>
           <Action code="R"/>
@@ -241,7 +200,7 @@
         </State>
         <State name="number">
           <Action code="|"/>
-          <Action mod="shift" text="⇧"/>
+          <Action/>
           <Action code="}"/>
           <Action/>
           <Action code="6"/>
@@ -400,13 +359,13 @@
       <Key name="space2">
         <State>
           <Action/>
-          <Action code=" " text="▆"/>
+          <Action key="66" text="↲"/>
           <Action key="22" text="→"/>
         </State>
       </Key>
-      <Key name="return" has_left="0" has_right="0">
+      <Key name="blankward" has_left="0" has_right="0">
         <State>
-          <Action key="66" text="↲"/> <!-- enter ⏎ -->
+          <Action key="66" text=" "/> <!-- enter ⏎ -->
         </State>
       </Key>
     </Row>
