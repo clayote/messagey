@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CompassKeyboard name="Messagey English">
+<CompassKeyboard name="Messagey Turbo English">
   <Layout name="vertical">
     <Row name="top">
       <Key name="1" has_top="0">
@@ -257,7 +257,7 @@
           <Action/>
           <Action code="6"/>
           <Action code=")"/>
-          <Action code="%40" text="⇧"/>
+          <Action code="%40"/>
           <Action/>
           <Action code="]"/>
         </State>
@@ -268,7 +268,7 @@
           <Action/>
           <Action code="6"/>
           <Action code=")"/>
-          <Action code="%40" text="⇧"/>
+          <Action code="%40"/>
           <Action/>
           <Action code="]"/>
         </State>

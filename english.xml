@@ -257,7 +257,7 @@
           <Action/>
           <Action code="6"/>
           <Action code=")"/>
-          <Action code="%40" text="⇧"/>
+          <Action code="%40"/>
           <Action/>
           <Action code="]"/>
         </State>
@@ -268,7 +268,7 @@
           <Action/>
           <Action code="6"/>
           <Action code=")"/>
-          <Action code="%40" text="⇧"/>
+          <Action code="%40"/>
           <Action/>
           <Action code="]"/>
         </State>
