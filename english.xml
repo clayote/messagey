@@ -275,7 +275,7 @@
       </Key>
       <Key name="123" has_top="0" has_bottom="0" has_left="0" has_right="0">
         <State>
-          <Action mod="number" text="1" isSpecial="1"/>
+          <Action lock="number" text="1" isSpecial="1"/>
         </State>
         <State name="number">
           <Action mod="number" text="A" isSpecial="1"/>
