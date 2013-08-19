@@ -247,7 +247,7 @@
           <Action code="R"/>
           <Action code=")"/>
           <Action code="%40"/>
-          <Action/>
+          <Action mod="shift" text="⇓"/>
           <Action code="]"/>
         </State>
         <State name="number">

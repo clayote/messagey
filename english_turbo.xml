@@ -246,7 +246,7 @@
           <Action code="M"/>
           <Action code="R"/>
           <Action/>
-          <Action/>
+          <Action mod="shift" text="⇓"/>
           <Action/>
           <Action code="]"/>
         </State>
