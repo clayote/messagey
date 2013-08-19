@@ -246,8 +246,8 @@
           <Action code="M"/>
           <Action code="R"/>
           <Action/>
-          <Action mod="shift" text="⇓"/>
           <Action/>
+          <Action mod="shift" text="⇓"/>
           <Action code="]"/>
         </State>
         <State name="number">
