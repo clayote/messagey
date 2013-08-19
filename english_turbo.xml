@@ -241,7 +241,7 @@
         </State>
         <State name="shift">
           <Action/>
-          <Action/>
+          <Action lock="shift" text="⇧"/>
           <Action/>
           <Action code="M"/>
           <Action code="R"/>
