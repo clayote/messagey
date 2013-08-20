@@ -102,6 +102,12 @@
         <State>
           <Action mod="hide" text="H"/> <!-- ☝ -->
         </State>
+	<State name="shift">
+	  <Action mod="hide" text="H"/> <!-- ☝ -->
+	</State>
+	<State name="number">
+	  <Action mod="hide" text="H"/> <!-- ☝ -->
+	</State>
       </Key>
     </Row>
     <Row name="mid">
