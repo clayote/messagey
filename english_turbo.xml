@@ -335,6 +335,12 @@
         <State>
           <Action key="67" text="⇐"/> <!-- del ⌫ -->
         </State>
+        <State name="number">
+          <Action key="67" text="⇐"/> <!-- del ⌫ -->
+        </State>
+        <State name="shift">
+          <Action key="67" text="⇐"/> <!-- del ⌫ -->
+        </State>
       </Key>
     </Row>
     <Row name="end" has_top="0" has_bottom="0">
